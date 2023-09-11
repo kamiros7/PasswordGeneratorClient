@@ -1,6 +1,6 @@
 # PasswordGeneratorClient
 
-This project works with PasswordGeneratorClient, that simulate a modified OTP lamport algorith, to autheticate users with token.
+This project works with PasswordGeneratorServer, that simulate a modified OTP lamport algorith, to autheticate users with token.
 The client part is to generate the tokens to login in the PasswordGeneratorServer (the projects doesn't communicate, both projects
 use the same algorithm to generate the valid tokens).
 
